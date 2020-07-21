@@ -1,0 +1,3 @@
+0, 1, NORTH
+0, 0, WEST
+2, 4, NORTH

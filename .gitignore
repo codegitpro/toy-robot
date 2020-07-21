@@ -1,0 +1,9 @@
+
+# npm packages
+node_modules
+
+# npm package images
+yarn.lock
+
+# etc folders
+*.zip
